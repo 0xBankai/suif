@@ -1,5 +1,6 @@
 import React from "react";
 import { ArrowRight } from "lucide-react";
+import uglyShiba from "./UGLY MFKR SHIBA.png";
 
 const Hero = () => {
 	return (
@@ -23,7 +24,7 @@ const Hero = () => {
 				</div>
 				<div className="mt-16 animate-float">
 					<img
-						src="./UGLY MFKR SHIBA.png"
+						src={uglyShiba}
 						alt="SUIF"
 						className="w-64 h-64 mx-auto rounded-full shadow-2xl"
 					/>
