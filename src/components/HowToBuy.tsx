@@ -77,7 +77,7 @@ const HowToBuy = () => {
 					<p className="text-blue-200 text-lg">
 						Need help? Don't hesitate to ask in our{" "}
 						<a
-							href="https://telegram.org"
+							href="https://t.me/SUIF_SUI"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="text-white underline hover:text-blue-300"
