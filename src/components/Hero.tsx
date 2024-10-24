@@ -23,7 +23,7 @@ const Hero = () => {
 				</div>
 				<div className="mt-16 animate-float">
 					<img
-						src="UGLY MFKR SHIBA.png"
+						src="./UGLY MFKR SHIBA.png"
 						alt="SUIF"
 						className="w-64 h-64 mx-auto rounded-full shadow-2xl"
 					/>
