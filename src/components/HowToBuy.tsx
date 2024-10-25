@@ -21,9 +21,9 @@ const steps = [
 	},
 	{
 		title: "Go to MovePump",
-		description: "Visit movepump.com and search for SUIF",
+		description: "Buy on the MovePump with the link",
 		icon: ExternalLink,
-		link: "https://movepump.com",
+		link: "https://movepump.com/token/0x74a12ac3f60c7151061bb094e8343ae5e73276b0cbf874fc59d83b193d476df9::suif::SUIF",
 	},
 	{
 		title: "Connect wallet",
