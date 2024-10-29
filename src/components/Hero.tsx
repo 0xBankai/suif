@@ -1,6 +1,6 @@
 import React from "react";
 import { ArrowRight } from "lucide-react";
-import uglyShiba from "./UGLY MFKR SHIBA.png";
+import uglyShiba from "./suif-logo.jpg";
 
 const Hero = () => {
 	return (
